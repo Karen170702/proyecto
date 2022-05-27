@@ -1,0 +1,61 @@
+/* Header */
+
+/* Barra de nav */
+.navbar {
+    background-color: #276bd7;
+}
+.nav-link {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* carrusel de imagenes */
+
+
+/* informacion de la farmacia */
+h4 {
+   font-family: 'Montserrat', sans-serif;
+    color: #276bd7;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+#contenido {
+    background-color: #d1e4f3;
+}
+
+/* horario y ubicacion */
+/* Start: Google Maps Responsive */
+.map-responsive {
+    overflow:hidden;
+    padding-bottom:400px; /*Reduce este valor si el mapa fuera muy alto, por ejemplo 250px, puedes usar porcentajes, 50%*/
+    position:relative;
+    height:0;
+}
+
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+/* End: Google Maps Responsive */
+
+/* footer */
+.nav-item {
+    font-family: 'Open Sans', sans-serif;
+}
+.text-center {
+        font-family: 'Open Sans', sans-serif;
+}
+footer {
+    background-color: #64BAFE;
+}
+.fa-solid {
+    color: #276bd7;
+}
+#info {
+    color: black;
+}
+
+/* responsivo */
